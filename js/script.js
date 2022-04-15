@@ -49,9 +49,7 @@ form.addEventListener("submit", (event) => {
     array.push(childr)
 
 
-if (childr.name != '' & childr.surname != '' & childr.age != '' & childr.select !=  '' & childr.role != '' &  childr.runk != '' & childr.date != '' &  childr.child != '') {
-    
-}
+
 })
 
 
